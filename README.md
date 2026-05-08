@@ -17,3 +17,7 @@ python main.py
 ## Second integration test
 
 This section was added to test the workflow between Codex App, VS Code, Git, and GitHub.
+
+
+## Test
+Just a test!
