@@ -13,3 +13,7 @@ A minimal Python command-line project.
 ```bash
 python main.py
 ```
+
+## Second integration test
+
+This section was added to test the workflow between Codex App, VS Code, Git, and GitHub.
